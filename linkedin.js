@@ -8,7 +8,7 @@ const userInput = prompt('Please enter your text: ');
 
 // Define the request body
 const requestBody = {
-    "author": "urn:li:person:4D_bpfhj1z",
+    "author": process.env.LINKEDINURN,
     "lifecycleState": "PUBLISHED",
     "specificContent": {
         "com.linkedin.ugc.ShareContent": {
