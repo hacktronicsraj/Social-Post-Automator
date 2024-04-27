@@ -4,6 +4,11 @@
 
 <p id="description">This personal project is designed to automate the process of posting content across multiple platforms including Twitter and LinkedIn among others. It also has the capability to handle image uploads. This project is essentially a Post Automation tool.</p>
 
+<h2>🧐 How Does This Work?</h2>
+
+Here're some of the project's best features:
+
+- Posting text on social media platforms is very easy to do but when it comes to images it becomes a bit complicated how images are uploaded is : first the image is uploaded to the api and then after that we get a id for that image then we have to attach that id with the text you want to tweet with then you can upload a image with text simultaneously
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Download the Latest Version from the releases Section</p>
